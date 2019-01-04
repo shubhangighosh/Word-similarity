@@ -15,7 +15,7 @@ Dependencies:
 1. Enchant: pip install pyenchant
 2. Brown Corpus: import nltk, nltk.download('brown')
 3. Stopwords: import nltk, nltk.download('stopwords') on python console
-4. Download google pretrained word2vec model from : https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and save in folder 'model' inside Team 9.
+4. Download google pretrained word2vec model from : https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit and save in folder 'model' inside the main repository folder.
 
 
 
