@@ -1,0 +1,5 @@
+To compile the code
+javac -classpath $CLASSPATH:/media/arjunbalgovind/Data/ESA_Wiki/descartes-0.2/bin/* ESA.java
+
+To run the code:
+java -classpath $CLASSPATH:/media/arjunbalgovind/Data/ESA_Wiki/descartes-0.2/bin/* ESA /media/arjunbalgovind/Data/ESA_Wiki/descartes-0.2/data/wiki-index/ 20 data.txt
